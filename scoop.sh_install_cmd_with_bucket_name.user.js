@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         scoop.sh install cmd with bucket name
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/shishirong/scoop.sh_with_bucket_name
 // @version      0.1
 // @description  scoop.sh install cmd with bucket name (让scoop.sh增加一个按钮使得复制命令时可以附带上bucket名,如:scoop install sudo -> scoop install main/sudo)
 // @author       stoneman
